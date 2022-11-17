@@ -13,4 +13,8 @@
     - [x] Register for IBM Cloud 
     - [x] Store the model in IBM Cloud
     - [x] Download the model when needed.
+    - Screenshots:
+  <br>
+  <h3> IBM Cloud Deployment Space Screenshot </h3>
+  <img src="https://github.com/IBM-EPBL/IBM-Project-51685-1660981646/blob/main/Project%20Development%20Phase/Sprint%202/Model%20Deployment%20in%20IBM.PNG?raw=true">
 
