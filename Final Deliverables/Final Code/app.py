@@ -82,14 +82,14 @@ def opencv():
             cv2.putText(frame, "predicted  class = Fire Detected" ,(100,100), cv2.FONT_HERSHEY_SIMPLEX, 1, (0,0,0), 1)
 
             account_sid = 'ACcb267eaaf14f7dc636a8f872bb5e1c4f'
-            auth_token = '56cb79c023649e6e22904e43b1d16a7d'
+            auth_token = '56cb79c023649e6e22904e43b1dxxxxx'
             client = Client(account_sid, auth_token)
 
             message = client.messages \
                 .create(
                 body='Forest Fire is detected, stay alert',
                 from_='+12232173417',  # twilio free number
-                to='+918940471282')
+                to='+9189xxxxxx82')
             print(message.sid)
             print('Fire Detected')
             print ('SMS sent!')
