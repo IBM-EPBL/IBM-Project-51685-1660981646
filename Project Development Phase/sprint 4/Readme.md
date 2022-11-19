@@ -1,7 +1,7 @@
 ## Sprint 4
 - The tasks in Sprint 4 as Sprint Delivery Plan are:
   - Flask Integeration with model:
-    - [x] Developed a flask web inteface
+    - [x] Developed a flask web interface
     - [x] Model integerated with Flask
 
 
